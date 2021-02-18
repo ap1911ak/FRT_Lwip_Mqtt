@@ -1,0 +1,8 @@
+freertos.c:95:13:vApplicationStackOverflowHook	16	static
+freertos.c:111:6:vApplicationGetIdleTaskMemory	24	static
+freertos.c:125:6:MX_FREERTOS_Init	48	static
+freertos.c:164:6:StartDefaultTask	80	static
+freertos.c:186:6:MqttClientSubTask	16	static
+freertos.c:220:6:MqttClientPubTask	40	static
+freertos.c:238:5:MqttConnectBroker	120	static
+freertos.c:279:6:MqttMessageArrived	24	static
